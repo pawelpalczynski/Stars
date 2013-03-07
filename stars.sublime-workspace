@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item_",
+				"items_pickable"
+			],
+			[
+				"ine",
+				"index"
+			],
+			[
+				"sco",
+				"score_label"
+			],
+			[
+				"ten",
+				"tenthousand"
+			],
+			[
+				"chang",
+				"change_back"
+			],
+			[
+				"sch",
+				"schedule_once"
+			],
+			[
+				"direction",
+				"direction_desired"
+			],
+			[
+				"direc",
+				"direction"
+			],
+			[
+				"pla",
+				"player_pos"
+			],
+			[
+				"play",
+				"player_pos"
+			],
+			[
+				"he",
+				"heuristic_direction"
+			],
+			[
+				"player",
+				"player_pos"
+			],
+			[
+				"sound_eat",
+				"sound_eat_fruit"
+			],
+			[
+				"point",
+				"points_left"
+			],
+			[
+				"anchr",
+				"anchor_y"
+			],
+			[
+				"specia",
+				"special_points"
+			],
+			[
+				"player_",
+				"player_point_collisions"
+			],
+			[
+				"direct",
+				"directions"
+			],
+			[
+				"ghost_",
+				"ghost_image_up"
+			],
+			[
+				"res",
+				"resources"
+			],
+			[
+				"anc",
+				"anchor_y"
+			],
+			[
+				"anchor",
+				"anchor_x"
+			],
+			[
+				"desi",
+				"direction_desired"
+			],
+			[
+				"ghost",
+				"ghost_frame2"
+			],
+			[
+				"heur",
+				"heuristic"
+			],
+			[
+				"heurist",
+				"heuristic_best"
+			],
+			[
+				"batc",
+				"batch"
+			],
+			[
+				"Cube",
+				"cube02"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"board",
+				"ghost_board_collsitions"
+			],
+			[
+				"ghosts",
+				"ghosts"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"player_ope",
+				"player_open_image"
+			],
+			[
+				"spec",
+				"special_point_image"
+			],
+			[
+				"score",
+				"score"
+			],
+			[
+				"re",
+				"resources"
+			],
+			[
+				"set",
+				"set_new_direction"
+			],
+			[
+				"chan",
+				"change_direction"
+			],
+			[
+				"poin",
+				"point_red_image"
+			],
+			[
+				"gh",
+				"ghost_image_up"
+			],
+			[
+				"ce",
+				"center_image"
+			],
+			[
+				"ghos",
+				"ghost_image_left"
+			],
+			[
+				"boar",
+				"board_image"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"size_",
+				"size_y"
+			],
+			[
+				"size",
+				"size_x"
+			],
+			[
+				"si",
+				"size_y"
+			],
+			[
+				"gam",
+				"game_over"
+			],
+			[
+				"game",
+				"game_objects"
+			],
+			[
+				"def",
+				"def	Function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 79,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pacg",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 257.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Python/The Lumberjack/lumberjack.sublime-workspace",
+		"/D/GitHub/Stars/stars/stars.sublime-workspace",
+		"/D/Python/The Lumberjack/lumberjack.sublime-project",
+		"/D/GitHub/Stars/stars/stars.sublime-project",
+		"/D/Python/Tetris/Ver7/main.py",
+		"/D/GitHub/Stars/stars/main.py",
+		"/D/GitHub/Stars/stars/stars/main.py",
+		"/D/GitHub/Stars/main.py",
+		"/D/Python/The Lumberjack/Version2/main.py",
+		"/D/Python/Stars/main.py",
+		"/D/Java/Lightweight learning 1/DisplayTest.java",
+		"/D/Java/Lightweight learning 1/DisplayTest2.java",
+		"/D/Java/Lightweight learning 1/Game.java",
+		"/D/Java/Learning/CopyBytes.java",
+		"/D/Java/Learning/BicycleDemo.java",
+		"/D/Java/Learning/HelloWorldApp2.java",
+		"/D/Java/Learning/HelloWorldApp.java",
+		"/D/Java/Learning/HelloWorldApp2",
+		"/D/Java/Learning/[path",
+		"/D/Python/The Lumberjack/Version2/load.py",
+		"/D/Python/The Lumberjack/Version2/arm.png",
+		"/D/Python/Pacman/Version8/resources.py",
+		"/D/Python/Pacman/Version8/ghost.py",
+		"/D/Python/Pacman/Version8/pcman.py",
+		"/D/Python/Testy/packagesfreeze/setup.py",
+		"/D/Python/Pacman/Version8/__init__.py",
+		"/D/Python/Pacman/Version8/setup.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/pkg2/sub5.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/pkg2/sub3.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/pkg2/__init__.py",
+		"/D/Python/Testy/packagesfreeze/relimport.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/__init__.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/sub6.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/sub4.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/sub2.py",
+		"/D/Python/Testy/packagesfreeze/pkg1/sub1.py",
+		"/D/Python/Testy/hello.py",
+		"/D/Python/Testy/advanced_2.py",
+		"/D/Python/Testy/advanced_1.py",
+		"/D/Python/Testy/setup.py",
+		"/D/Python/Testy/test3.py",
+		"/D/Python/Pacman/Version7/game/resources.py",
+		"/D/Python/Pacman/Version7/game/ghost.py",
+		"/D/Python/Pacman/Version7/game/player.py",
+		"/D/Python/Testy/test2.py",
+		"/D/Python/Testy/main.py",
+		"/D/Python/Pacman/Version7/pcman.py",
+		"/D/Python/MyGame/version1/game/resources.py",
+		"/D/Python/MyGame/version1/asteroids.py",
+		"/D/Python/MyGame/version5back/asteroids.py",
+		"/D/Python/MyGame/version5back/game/resources.py",
+		"/D/Python/Pacman/Version6/game/resources.py",
+		"/D/Python/Pacman/Version6/game/point.py",
+		"/D/Python/Pacman/Version6/game/ghost.py",
+		"/D/Python/Pacman/Version6/game/player.py",
+		"/D/Python/Pacman/Version6/pcman.py",
+		"/D/Python/Pong/version2/pong.py",
+		"/D/Python/Pacman/Version6/game/physicalobject.py",
+		"/D/Python/MyGame/version5back/game/player.py",
+		"/D/Python/Pacman/Version5/pcman.py",
+		"/D/Python/Pacman/Version5/game/resources.py",
+		"/D/Python/Pacman/Version5/game/ghost.py",
+		"/D/Python/Pacman/Version4/game/physicalobject.py",
+		"/D/Python/Pacman/Version4/game/point.py",
+		"/D/Python/Pacman/Version4/game/board.py",
+		"/D/Python/Pacman/Version4/game/resources.py",
+		"/D/Python/Pacman/Version4/game/player.py",
+		"/D/Python/Pacman/Version4/game/ghost.py",
+		"/D/Python/Pacman/Version4/pcman.py",
+		"/D/Python/Pacman/Version4/game/board2.txt",
+		"/D/Python/Pacman/Version3/game/resources.py",
+		"/D/Python/Pacman/Version3/game/point.py",
+		"/D/Python/Pacman/Version3/game/physicalobject.py",
+		"/D/Python/Pacman/Version3/game/board.py",
+		"/D/Python/Pacman/Version3/game/player.py",
+		"/D/Python/Pacman/Version3/pcman.py",
+		"/D/Python/Pacman/Version3/game/board2.txt",
+		"/D/Python/Pacman/Version3/game/board.txt",
+		"/D/Python/Pacman/Version2/game/resources.py",
+		"/D/Python/Pacman/Version2/game/point.py",
+		"/D/Python/Pacman/Version2/game/player.py",
+		"/D/Python/Pacman/Version2/game/physicalobject.py",
+		"/D/Python/Pacman/Version2/game/board.py",
+		"/D/Python/Pacman/Version2/pcman.py",
+		"/D/Python/Pacman/Version1/game/resources.py",
+		"/D/Python/Pacman/Version1/game/physicalobject.py",
+		"/D/Python/Pacman/Version1/game/board.py",
+		"/D/Python/Pacman/Version1/game/point.py",
+		"/D/Python/Pacman/Version1/game/player.py",
+		"/D/Python/Pacman/Version1/pcman.py",
+		"/D/Python/MyGame/version4/game/load.py",
+		"/D/Python/MyGame/version4/game/asteroid.py",
+		"/D/Python/MyGame/version4/game/resources.py",
+		"/D/Python/Pong/version1/pong.py",
+		"/D/Python/MyGame/version4/game/physicalobject.py",
+		"/D/Python/MyGame/version4/game/player.py",
+		"/D/Python/Pong/version1/game/player.py",
+		"/D/Python/Pong/version1/game/resources.py",
+		"/D/Python/Pacman/version1/game/player.py",
+		"/D/Python/Pacman/version1/game/physicalobject.py",
+		"/D/Python/Pacman/version1/pcman.py",
+		"/D/Python/Pacman/version1/game/resources.py",
+		"/D/Python/Pacman/version1/game/__init__.py",
+		"/D/Python/Pacman/version1/pcman",
+		"/D/Python/Pong/version2/game/resources.py",
+		"/D/Python/Pong/version2/game/player.py",
+		"/D/Python/Pong/version2/game/physicalobject.py",
+		"/D/Python/Pong/version2/game/ball.py",
+		"/D/Python/Pong/version2/game/load.py",
+		"/D/Python/Pong/version1/game/ball.py",
+		"/D/Python/Pong/version1/game/physicalobject.py",
+		"/D/Python/config_1.py",
+		"/D/Python/Pong/version1/test.py",
+		"/D/Python/MyGame/version4/asteroids.py",
+		"/D/Python/Pong/version1/game/load.py",
+		"/D/Python/Pong/version1/game/__init__.py",
+		"/D/Python/Pong/version1/game/__init__",
+		"/D/Python/Pong/pong",
+		"/D/Python/Testy/main2.pz",
+		"/D/Python/Testy/main2",
+		"/D/Python/Testy/main",
+		"/D/Python/TicTacToe/text.txt",
+		"/D/Python/TicTacToe/some",
+		"/D/Python/TicTacToe/some.py",
+		"/D/Python/MyPong/MyPong.py",
+		"/C/Users/Paua/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Paua/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"java",
+			"javac",
+			"java",
+			"self.image",
+			"player.image",
+			"closed",
+			"dead",
+			"pyglet.clo",
+			"print",
+			"50",
+			"140"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"settings":
+					{
+						"buffer_size": 79,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 161.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true
+}
