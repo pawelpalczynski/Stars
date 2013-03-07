@@ -9,7 +9,7 @@ def setup(canvas):
 
 	canvas.fps = 60
 
-	canvas.append(player.Player(canvas.width/2, canvas.height/2, 50, 50))
+	canvas.append(player.Player(canvas.width/2, canvas.height/2))
 
 def update(canvas):
 	pass

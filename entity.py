@@ -17,7 +17,6 @@ class Entity(Layer):
 		delta = canvas.elapsed
 		self.vel += (self.acc - self.vel * self.friction)*delta
 		self.pos += self.vel*delta
-		self.ori.angle = self.rotation/2
 
 		# Boundary conditions
 		if self.pos.x > canvas.width:
