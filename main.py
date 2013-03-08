@@ -1,15 +1,14 @@
 from nodebox.graphics import *
-import player
+import player, sky, planet
 
 def setup(canvas):
-	canvas.width = 1024
-	canvas.height = 768
-	canvas.x = (canvas.screen.width - canvas.width)/2
-	canvas.y = (canvas.screen.height - canvas.height)/2
+	canvas.width = canvas.screen.width
+	canvas.height = canvas.screen.height
+	canvas.fullscreen = True
 
-	canvas.fps = 60
-
-	canvas.append(player.Player(canvas.width/2, canvas.height/2))
+	canvas.append(sky.Sky(0, 0, name = sky))
+	canvas.append(planet.Planet(mass = 50, size = 100, x = canvas.width/2, y = canvas.height/2, name = planet))
+	canvas.append(player.Player(mass = 1, x = canvas.width/4, y = canvas.height/2, name = player))
 
 def update(canvas):
 	pass
@@ -17,6 +16,7 @@ def update(canvas):
 def draw(canvas):
 	canvas.clear()
 	background(0)
+	pass
 
 def stop(canvas):
 	pass
